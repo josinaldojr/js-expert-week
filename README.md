@@ -1,4 +1,4 @@
-<h1 align=center>💻 Projeto JS Expert Week😀 <br/> <div align="center"> 
+# Projeto JS Expert Week
 
 - Acesse o [index](./public/index/index.html) para visualizar a lista de titulos
 - Acesse o [bandersnatch](./public/bandersnatch/index.html) para acessar o titulo base do projeto
@@ -21,11 +21,15 @@
 
 * [Node.js](https://nodejs.org/)
 
+
 ## Run
+
 Before starting at the root of the project, put the following code in the terminal:
+
 ```sh
 npm install
 ```
+
 This will install the project dependencies ([https-server](https://www.npmjs.com/package/http-server))
 
 When you have installed the dependencies, now just run the following code in the terminal at the root of the project:
@@ -34,5 +38,7 @@ When you have installed the dependencies, now just run the following code in the
 npm run dev
 
 ```
+
 ---
+
 <h1 align=center> Made by josinaldojr 🌟</h1>
